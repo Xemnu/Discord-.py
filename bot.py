@@ -170,6 +170,6 @@ async def pomoc(ctx):
     await member.send('Wiadomość została wysłana w DM.')
 
 
-TOKEN = "ODM3MDQxMDY4NzM3NDI5NTQ1.YImxPg.1em6dGDfQn0LGHfulH9WHP821zU"
+TOKEN = "Put_your_bot_token"
 
 client.run(TOKEN)
