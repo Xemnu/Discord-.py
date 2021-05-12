@@ -1,0 +1,8 @@
+logo color background - #09fbd3
+shape - circle
+logo theme - https://banner2.cleanpng.com/20180804/zxy/kisspng-python-computer-icons-programmer-javascript-progra-tweet-on-twitter-trend-by-gp_pulipaka-twitter-tre-5b6648da225a38.5188591515334299781407.jpg
+dimensions - 500 x 500 (px)
+logo circle discord - https://static.wikia.nocookie.net/polskapersopedia/images/3/32/Discord_logo_okr%C4%85g%C5%82e.png/revision/latest?cb=20200101201518&path-prefix=pl
+
+import discord
+form discord.ext import commands
